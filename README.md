@@ -1,2 +1,2 @@
 # Python
-Estudo programação python
+Material de estudo sobre programação python
